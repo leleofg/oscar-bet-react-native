@@ -3,12 +3,15 @@
 
 App made with React Native
 
-* Login (with facebook or normal)
+Features:
+
 * Movies (show all movies from Oscar 2019)
 * Place bets
 * Show your bets
 * See bets from your friends
 * Create groups and join them
+* Marked movies how watched
+* Login (with facebook or normal)
 
 [Link Google Play](https://play.google.com/store/apps/details?id=com.oscarinobet)
 
@@ -18,3 +21,11 @@ App made with React Native
   <img src="src/img/3.jpeg" width="350" title="Login" alt="Login">
   <img src="src/img/4.jpeg" width="350" title="Groups" alt="Groups">
 </p>
+
+
+New features:
+
+* Ranking
+* Updated movies to Oscar 2020 :)
+
+
