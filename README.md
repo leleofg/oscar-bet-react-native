@@ -1,5 +1,5 @@
 # Oscarino Bet
-(before, the name was "Oscar Bet", but terms/contract Google Play told me to change)
+(the old name was "Oscar Bet", but terms/contract Google Play delete the app with 1000+ downloads and told me to change the name )
 
 App made with React Native
 
@@ -13,6 +13,11 @@ Features:
 * Marked movies how watched
 * Login (with facebook or normal)
 
+New features:
+
+* Ranking
+* Updated movies to Oscar 2020 :)
+
 [Link Google Play](https://play.google.com/store/apps/details?id=com.oscarinobet)
 
 <p align="center">
@@ -23,9 +28,6 @@ Features:
 </p>
 
 
-New features:
 
-* Ranking
-* Updated movies to Oscar 2020 :)
 
 
